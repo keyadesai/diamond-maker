@@ -1,0 +1,18 @@
+{
+  "name": "diamond-maker",
+  "version": "1.0.0",
+  "description": "my take on alphabet diamond",
+  "main": "lodash.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test",
+    "start": "node js/diamond-maker.js $1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
